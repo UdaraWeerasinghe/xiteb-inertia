@@ -3,7 +3,7 @@ import { Link } from '@inertiajs/inertia-vue3';
 </script>
 
 <template>
-    <Link :href="'/'">
+    <Link :href="'/dashboard'">
         <svg
             class="w-7 h-7"
             viewBox="0 0 48 48"

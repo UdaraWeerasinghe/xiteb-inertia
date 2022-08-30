@@ -8,6 +8,7 @@ import JetCheckbox from '@/Jetstream/Checkbox.vue';
 import JetLabel from '@/Jetstream/Label.vue';
 import JetValidationErrors from '@/Jetstream/ValidationErrors.vue';
 
+
 const form = useForm({
     name: '',
     email: '',
